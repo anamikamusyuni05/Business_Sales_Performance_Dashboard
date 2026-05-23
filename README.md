@@ -5,7 +5,7 @@
 Created an interactive Power BI dashboard to analyze Super Store sales data and track overall business performance. The dashboard provides insights into sales trends, profit analysis, customer behavior, and regional performance using KPI metrics and visualizations.
 
 ---
-<img width="1853" height="877" alt="Buisness Performance Sales Dashboard_image" src="https://github.com/anamikamusyuni05/Business_Sales_Performance_Dashboard/blob/main/Buisness_Sales_Dashboard.png" />
+<img width="1853" height="877" alt="Buisness Performance Sales Dashboard_image" src="https://github.com/anamikamusyuni05/Business_Sales_Performance_Dashboard/blob/main/Buisness_Sales_Dashboard1.png" />
 
 ---
 
@@ -20,6 +20,16 @@ Created an interactive Power BI dashboard to analyze Super Store sales data and 
   - Avg Order Value
   - Profit Margin %
  
+---
+## DAX Measures Used
+
+- Total Sales  
+- Total Profit  
+- Total Orders  
+- Avg Order Value  
+- Profit Margin %
+---
+ 
 ### Interactive Visualizations
 
 - Monthly Sales and Profit trend analysis  
@@ -27,16 +37,36 @@ Created an interactive Power BI dashboard to analyze Super Store sales data and 
 - State-wise sales performance using maps  
 - Interactive slicers and filters for better analysis  
 
+
+
 ---
 
-## DAX Measures Used
+## Dashboard Navigation Feature
+- Added interactive navigation buttons for smooth page transitions.
+- Home button navigates users to the Main Dashboard page.
+- Navigation button enables quick access to the Sales Insight page.
+- Improves user experience with easy dashboard movement.
 
-- Total Sales  
-- Total Profit  
-- Total Orders  
-- Avg Order Value  
-- Profit Margin %  
+---
+<img width="1853" height="877" alt="Buisness Performance Sales Dashboard_image" src="https://github.com/anamikamusyuni05/Business_Sales_Performance_Dashboard/blob/main/Sales_Insight.png" />
 
+---
+
+
+
+
+ ## ✨ Features:
+-  KPI Cards (Total Sales, Sales per Customer, Sales per Order)
+- Region & Quarter Slicers
+- Page Navigation Buttons
+- Interactive Visualizations
+- Dynamic Filtering
+- Top & Bottom Product Analysis
+
+🔄 Navigation:
+- Home icon → Main Dashboard
+- Next Page button → Sales Insight Dashboard
+  
 ---
 
 ## Tools Used
